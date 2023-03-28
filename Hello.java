@@ -1,6 +1,6 @@
 public class Hello {
 
- public static vois main(String[] args) {
+ public static void main(String[] args) {
       System.out.println("Hello This is java program");
 	  }
 }
